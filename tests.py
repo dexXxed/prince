@@ -1,8 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 from prince import Prince
-import os
 
 
 def test(ptxt, key, exp):
